@@ -1,6 +1,6 @@
 # Claude Code Jumpstart Prompt
 
-En te basant sur le product vision board suivant, la maquette applicative (`çaMangeOù ?.App`) en React et le schéma mermaid ci-dessous, peux-tu faire l'implémentation complète de mon application.
+En te basant sur le product vision board suivant, la maquette applicative (dans /src) en React et le schéma mermaid ci-dessous, peux-tu faire l'implémentation complète de mon application.
 
 ## Stack technique
 
@@ -9,7 +9,7 @@ En te basant sur le product vision board suivant, la maquette applicative (`çaM
 - **ORM** : Drizzle
 - **Base de données** : Postgres
 
-## Vision : ProductBluePrint
+## Vision :
 
 ```json
 {
@@ -97,7 +97,3 @@ flowchart TD
     
     style Done fill:#E74C3C,color:#fff
 ```
-
----
-
-> Ce fichier a été généré automatiquement par VibeCode pour faciliter le démarrage du développement avec Claude Code.
